@@ -1,0 +1,32 @@
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\obj\Debug\Mesh Loader.csproj.AssemblyReference.cache
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\obj\Debug\Mesh Loader.csproj.CoreCompileInputs.cache
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Mesh Loader.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Mesh Loader.pdb
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Il2CppInterop.Runtime.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\MelonLoader.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\UnityEngine.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Il2CppInterop.Common.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\0Harmony.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\MonoMod.Utils.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\bHapticsLib.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Tomlet.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Mono.Cecil.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\AssetsTools.NET.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\ValueTupleBridge.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\WebSocketDotNet.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\MelonLoader.xml
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\obj\Debug\Mesh Loa.7F3B51FC.Up2Date
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\obj\Debug\Mesh Loader.dll
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\obj\Debug\Mesh Loader.pdb
+C:\Users\ssaml\OneDrive\Documents\C#\Projects\il2cpp\Mesh Loader\Mesh Loader\bin\Debug\UnityEngine.ImageConversionModule.dll
