@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/melonloader-logo.png" alt="MelonLoader Logo" width="300"/>
+</p>
+
 # MeshLoader
 
 MeshLoader is a lightweight C# library designed for MelonLoader mods, allowing you to load custom 3D meshes and textures from base64-encoded strings in Unity games. The library uses Unity's Universal Render Pipeline (URP) to apply textures and provides two simple static methods to load a `Mesh` and a `Material` with a custom texture, making it easy to add dynamic assets to your MelonLoader mods.
@@ -83,6 +87,7 @@ public class MyMod : MelonMod
 - **Description**: Loads a 3D mesh from a base64-encoded OBJ file string.
 - **Parameters**:
   - `base64`: A base64-encoded string representing an OBJ file.
+- **Returns MAYBE add a link to a video showing how to get base64 string of a file.
 - **Returns**:
   - `UnityEngine.Mesh`: The loaded mesh, or `null` if an error occurs.
 - **Example**:
